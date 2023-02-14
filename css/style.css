@@ -33,3 +33,11 @@ body {
 footer {
     background-color: #3a546d;
 }
+
+.line {
+    display: inline-block;
+    width: 20%;
+    height: 3px;
+    background-color: white;
+    vertical-align: middle;
+}
