@@ -38,6 +38,9 @@ footer {
     display: inline-block;
     width: 20%;
     height: 3px;
-    background-color: white;
     vertical-align: middle;
+}
+
+.item:hover {
+    background-color: #1abc9c;
 }
